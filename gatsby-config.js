@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    title: `Code With Luv`,
+    name: `Luv`,
+    siteUrl: `https://luvk1412.github.io`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to Code with Luv`,
       maxWidth: 652,
     },
     social: [
@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Code With Luv`,
+        short_name: `Luv`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,

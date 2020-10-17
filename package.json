@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build",
     "dev": "gatsby develop",
     "clean": "gatsby clean",
@@ -18,5 +19,8 @@
     "netlify-cms-proxy-server": "^1.1.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }

@@ -1,7 +1,7 @@
 ---
 title: My first post using Novela by Narative
 author: Dennis Brotzky
-date: 2019-04-30
+date: 2020-04-30
 hero: ./images/hero.jpg
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
 ---
@@ -101,7 +101,7 @@ import React from "react";
 import { ThemeProvider } from "theme-ui";
 import theme from "./theme";
 
-export default props => (
+export default (props) => (
   <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
 );
 ```

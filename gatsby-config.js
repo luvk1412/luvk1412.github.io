@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://luvk1412.github.io`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Code with Luv`,
+      heading: `Welcome to my blog`,
       maxWidth: 652,
     },
     social: [
@@ -59,8 +59,7 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-      },
+      options: {},
     },
   ],
 };

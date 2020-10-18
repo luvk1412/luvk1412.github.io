@@ -3,7 +3,7 @@ module.exports = {
     title: `Learn Competive Programming and Interview Prepartion Tips`,
     name: `Luv`,
     siteUrl: `https://luvk1412.github.io`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Learn Competitvie Programming, Interview Prepartion from Scratch and Get Job in Tech Giants`,
     hero: {
       heading: `Welcome to my blog`,
       maxWidth: 652,

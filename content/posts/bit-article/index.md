@@ -22,6 +22,8 @@ Segement Trees is a popular data tructure which can solve these kind of problems
 
 I have amde a small video in which i start from beginning assuming you have zero knowledege of BIT. I am pretty sure after watching watching this video you will have good udnerstanding of BIT.
 
+`youtube: https://youtu.be/DPiY9wFxGIw`
+
 ## Code and Implementation
 
 The code of BIT as discussed earlier is quite easy. Below is the C++ code for update and sum function of BIT.

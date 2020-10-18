@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Code With Luv`,
+    title: `Learn Competive Programming and Interview Prepartion Tips`,
     name: `Luv`,
     siteUrl: `https://luvk1412.github.io`,
     description: `This is my description that will be used in the meta tags and important for search results`,
@@ -10,24 +10,25 @@ module.exports = {
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
+        name: `youtube`,
+        url: `https://www.youtube.com/c/LuvIsMe?sub_confirmation=1`,
       },
-      {
-        name: `github`,
-        url: `https://github.com/narative`,
-      },
+
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://www.instagram.com/i._m_.luv/`,
+      },
+      {
+        name: `twitter`,
+        url: `https://twitter.com/luvk1412`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/luvk1412/`,
       },
       {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        name: `github`,
+        url: `https://github.com/luvk1412`,
       },
     ],
   },

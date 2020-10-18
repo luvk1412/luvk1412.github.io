@@ -1,0 +1,13 @@
+name: Luv
+bio: >
+  Software Engineer - Directi | Ex - Goldman Sachs<br />
+  I love to right code and share whatever little knowledege i have<br />
+  through this blog and Youtube videos.
+avatar: ./avatars/luv.jpeg
+social:
+  - url: https://www.youtube.com/c/LuvIsMe?sub_confirmation=1
+  - url: https://www.instagram.com/i._m_.luv/
+  - url: https://twitter.com/Luvk1412
+  - url: https://github.com/luvk1412
+  - url: https://www.linkedin.com/in/luvk1412/
+featured: true

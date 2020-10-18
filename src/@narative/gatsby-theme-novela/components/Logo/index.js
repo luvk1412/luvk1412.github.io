@@ -24,8 +24,8 @@ export default function Logo({ fill }) {
     <>
       <img
         style={{
-          width: "43rem",
-          height: "8rem",
+          width: "60%",
+          height: "auto",
         }}
         alt="Code with Luv logo"
         src={url}

@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Learn Competive Programming and Interview Prepartion Tips`,
+    title: `Learn Competitive Programming and Interview Preparation Tips`,
     name: `Luv`,
     siteUrl: `https://luvk1412.github.io`,
-    description: `Learn Competitvie Programming, Interview Prepartion from Scratch and Get Job in Tech Giants`,
+    description: `Learn Competitive Programming, Interview Preparation from Scratch and Get Job in Tech Giants`,
     hero: {
       heading: `Welcome to my blog`,
       maxWidth: 652,

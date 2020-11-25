@@ -170,6 +170,6 @@ int main(){
 
 For detailed explanation on both of the above questions you can watch my explanation video.
 
-`youtube: https://youtu.be/NOykDuH1_OY`
+`youtube: https://youtu.be/ICdGWdv9EdI`
 
 _I hope you all found the article as well as the video helpful. If you have any questions or doubt you can comment on the youtube video itself. I try to reply to most of the doubt questions. Feel free to ping me on any social media. Links can be found at bottom of the page._
